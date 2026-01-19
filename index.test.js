@@ -1,5 +1,5 @@
 const makeBiryani = require('./index');
 
 test('Biryani should be delicious', () => {
-  expect(makeBiryani()).toBe("Delicious Biryani");
+  expect(makeBiryani()).toBe("Delicious Biryani By Hariksh");
 });
